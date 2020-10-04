@@ -1,7 +1,7 @@
 # Theory-of-Computation
-This repository contains my assignment work related to Theory of Computation (ToC) aka Formal Language and Automata where the codes for various concepts in ToC are implemented.
+**This repository contains my assignment work related to Theory of Computation (ToC) aka Formal Language and Automata where the codes for various concepts in ToC are implemented.**
 
-** The output for the Python code "FA.py" is: **
+** (Individual work) The output for the Python code "FA.py" is: **
 
 Enter list of states separated by spaces: q0 q1 q2 q3
 
